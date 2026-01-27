@@ -1,2 +1,32 @@
-# retail-inflation-sql-analysis
-SQL project analysing retail sales and inflation impact across provinces and product categories.
+# Retail Sales & Inflation Analysis (SQL Project)
+
+## Project Overview
+This project explores how inflation affects retail sales performance across provinces and product categories. Using SQL, I built a relational database and analysed sales trends, inflation-adjusted revenue, and regional demand resilience.
+
+## Objectives
+- Analyse retail revenue trends over time
+- Compare nominal vs real (inflation-adjusted) sales
+- Identify product categories most affected by inflation
+- Evaluate which provinces show the strongest demand resilience
+
+## Tools Used
+- SQL (PostgreSQL/MySQL)
+- Excel (for dashboard visualisation)
+- GitHub (project documentation)
+
+## Database Structure
+The project includes four tables:
+- sales_transactions
+- products
+- stores
+- inflation_index
+
+## Key Skills Demonstrated
+- SQL joins
+- Aggregations
+- CTEs (Common Table Expressions)
+- Window functions
+- Business insight generation from raw data
+
+## Status
+Project setup in progress — database creation and analysis coming next.
