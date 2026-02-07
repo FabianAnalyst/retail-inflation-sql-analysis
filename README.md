@@ -30,3 +30,9 @@ The project includes four tables:
 
 ## Status
 Project setup in progress — database creation and analysis coming next.
+
+## Revenue Analysis Dashboard
+
+This chart shows how revenue is distributed across product categories.
+
+![Revenue by Category](dashboard/revenue_by_category.png)
