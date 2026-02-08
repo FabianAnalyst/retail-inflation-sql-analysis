@@ -1,3 +1,13 @@
+# Sales Data Analysis Project
+
+This project demonstrates my ability to use SQL and Excel to analyse sales performance data and generate business insights.
+
+Key skills demonstrated:
+- SQL data extraction and aggregation
+- Data cleaning and structuring
+- Revenue analysis by product category
+- Dashboard creation in Excel
+
 # Retail Sales & Inflation Analysis (SQL Project)
 
 ## Project Overview
